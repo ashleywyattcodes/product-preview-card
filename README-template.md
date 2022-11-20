@@ -24,9 +24,7 @@ Users should be able to:
 <img width="1619" alt="Screenshot 2022-11-19 at 6 00 45 PM" src="https://user-images.githubusercontent.com/67844566/202876455-3108c110-9473-4382-b89b-9ecdb8b90873.png">
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://quiet-sprinkles-e800f1.netlify.app/
 
 ## My process
 
